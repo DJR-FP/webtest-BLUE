@@ -9,7 +9,7 @@ echo '
 <body background="images/blue.jpg">
 <font color="white">
 <h1>
-RED Test Site<br/> 
+BLUE Test Site<br/> 
 ..................................<br/>
 <h1/>
 </font>
