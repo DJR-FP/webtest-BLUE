@@ -25,7 +25,13 @@ http://192.168.103.20:8582/
 
 http://192.168.103.20:8583/
 
+webtest.dc1.fullproxylabs.com
 
+red.dc1.fullproxylabs.com
+
+blue.dc1.fullproxylabs.com
+
+green.dc1.fullproxylabs.com
 
 
 
